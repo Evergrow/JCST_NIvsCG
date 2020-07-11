@@ -9,7 +9,7 @@ Example results of our method on images from the highly challenging dataset of [
 
 ## Prerequisites
 * Python 3
-* NVIDIA GPU 9.0 + CUDA cuDNN 7.1.4
+* NVIDIA GPU CUDA 9.0 + cuDNN 7.1.4
 * PyTorch (tested on 0.4.1 and 1.0.0)
 * Pillow (Python Imaging Library)
 * Tqdm (Progress Bar for Python)
