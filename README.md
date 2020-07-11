@@ -19,7 +19,7 @@ Example results of our method on images of the highly challenging dataset of [Go
 ```python
 python train.py --batch_size 64 --patch_size 96 --epoch 1200 --lr 0.001
 ```
-* Testing: Test the results: ```python python test.py```.
+* Testing: Test the results: ```python test.py```.
 
 ## Citation
 ```latex
