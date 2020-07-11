@@ -12,7 +12,7 @@ import torch.nn as nn
 import torch.optim as optim
 import torchvision.transforms as transforms
 from PIL import Image
-from model_conv1 import ScNet
+from model import ScNet
 
 import torchvision.models as models
 from torch.autograd import Variable
