@@ -1,5 +1,5 @@
 # JCST_NIvsCG
-An open source code for paper "Distinguishing Computer-Generated Images from Natural Images Using Channel and Pixel Correlation" accepted in JCST 2020.
+An open source code for paper "[Distinguishing Computer-Generated Images from Natural Images Using Channel and Pixel Correlation](https://link.springer.com/article/10.1007/s11390-020-0216-9)" accepted in JCST 2020.
 <div align=center>
   <img width="380" src="https://github.com/Evergrow/JCST_NIvsCG/blob/master/images/img1.jpg/" hspace="10">
   <img width="380" src="https://github.com/Evergrow/JCST_NIvsCG/blob/master/images/img2.jpg/" hspace="10">
