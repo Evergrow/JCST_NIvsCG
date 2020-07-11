@@ -4,7 +4,8 @@ An open source code for paper "Distinguishing Computer-Generated Images from Nat
   <img width="470" src="https://github.com/Evergrow/JCST_NIvsCG/blob/master/images/img1.jpg/" hspace="10">
   <img width="470" src="https://github.com/Evergrow/JCST_NIvsCG/blob/master/images/img2.jpg/" hspace="10">
 </div>
-Example results of our method on images of the highly challenging dataset of [Google versus PRCG](http://www.ee.columbia.edu/ln/dvmm/downloads/PIM_PRCG_dataset/). The demo lists the confidence of two labels (NI and CG) and calculates the time cost. 
+
+Example results of our method on images of the highly challenging dataset of [Columbia PRCG](http://www.ee.columbia.edu/ln/dvmm/downloads/PIM_PRCG_dataset/). The demo lists the confidence of two labels (NI and CG) and calculates the time cost. 
 
 ## Prerequisites
 * Python 3
@@ -19,7 +20,7 @@ Example results of our method on images of the highly challenging dataset of [Go
 ```python
 python train.py --batch_size 64 --patch_size 96 --epoch 1200 --lr 0.001
 ```
-* Testing: Test the results: ```python test.py```.
+* Testing: Run ```python test.py```.
 
 ## Citation
 ```latex
