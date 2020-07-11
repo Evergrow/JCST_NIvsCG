@@ -6,7 +6,7 @@ import glob
 from torchvision import transforms
 from torch.autograd import Variable
 import torch.nn.functional as F
-from model_conv1 import ScNet
+from model import ScNet
 
 
 # GPU ID
