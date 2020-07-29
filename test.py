@@ -13,7 +13,7 @@ from model import ScNet
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 # The path of data and log
-data_root = './data/'
+data_root = './data/test_img/'
 project_root = './log/'
 
 # Data size and Patch size
