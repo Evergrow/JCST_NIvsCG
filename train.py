@@ -149,7 +149,7 @@ def train(train_loader, model, optimizer, criterion, L1_criterion, epoch):
 
         if batch_idx % args.log_interval == 0:
             pbar.set_description(
-                'Train Epoch: {} [{}/{} ({:.0f}%)]\tLoss: {:.6f}'.format(
+                'Train Epoch: {} [{}/{} ({:.0f}%)]   Loss: {:.6f}'.format(
                     epoch, batch_idx * len(data_var), len(train_loader.dataset),
                     100. * batch_idx / len(train_loader),
                     loss.item()))
